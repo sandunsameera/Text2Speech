@@ -5,7 +5,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".speechActivity">
-
     <TextView
         android:id="@+id/speech_TV"
         android:layout_width="550dp"
