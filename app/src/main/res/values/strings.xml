@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Text 2 Speech</string>
+    <string name="welcome">Welcome</string>
+    <string name="click_here">Click Here</string>
+    <string name="input_your_string">Input your string</string>
+    <string name="touch_this">Touch This</string>
+</resources>
